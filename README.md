@@ -26,17 +26,14 @@ install JSON server using below command
 
 run the json server using below command
 
-### `json-server --watch ToDo.json --port 8002`
+### `json-server --watch news.json --port 8006`
 
 Runs the Json server
 
-Resources
-`http://localhost:8002/items`
+<!-- /////////////step-5////////////// -->
+install Bootstrap
+### npm i bootstrap
+### npm i react-bootstrap
+for styling react Bootstrap has been used/
 
-Home
-`http://localhost:8002`
 
-<!-- Font Awesome and Bootstrap CDNs has been attached in index.html file in PUBLIC folder -->
-
-for styling Bootstrap has been used and
-for Icons Font awesome is used.
